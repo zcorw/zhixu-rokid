@@ -1,0 +1,1 @@
+{"name":"知序 Rokid","description":"开发报告演示原型，未连接真实服务。","pages":["pages/report/index"],"widgets":[{"path":"widgets/report/index","family":"1x2","placement":"persistent","displayName":"知序报告（演示）","description":"查看演示任务及受阻事项。"}],"permissions":[],"window":{"navigationBarTitleText":"知序报告","navigationBarBackgroundColor":"#000000","viewport":{"width":"device-width"}}}
